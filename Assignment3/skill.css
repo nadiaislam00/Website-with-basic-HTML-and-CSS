@@ -1,0 +1,147 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+section {
+    margin: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #081d1e;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#skills{
+    margin-left: 677px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px 5px rgba(4, 206, 242, 0.2);
+    line-height: 22px;
+}
+#skills h2{
+    color: #1e7276;
+}
+#experience h2{
+    color: #1e7276;
+}
+#experience{
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px 5px rgba(4, 206, 242, 0.2);
+    width: 721px;
+}
+#projects{
+    margin-left: 670px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px 5px rgba(4, 206, 242, 0.2);
+    line-height: 22px;
+    padding: 20px;
+}
+#projects h2{
+    color: #1e7276;
+}
+#passion h2{
+    color: #1e7276;
+    text-align: center;
+}
+#skills-extras h2{
+    color: #1e7276;
+    text-align: center;
+}
+#team h2{
+    color: #1e7276;
+    text-align: center;
+}#goals h2{
+    color: #1e7276;
+    text-align: center;
+}
+#passion{
+    height: 200px;
+    width: 686px;
+    margin-left: -125px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px 5px rgba(4, 206, 242, 0.2);
+}
+.extra{
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+    margin-left: 210px;
+    margin-top: 10px;
+}
+.extra1{
+    margin-top:46px;
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+    margin-left: 207px;
+}
+#skills-extras{
+    height: 200px;
+    width: 686px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px 5px rgba(4, 206, 242, 0.2);
+}
+#team{
+    height: 200px;
+    width: 686px;
+    margin-left: -125px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px 5px rgba(4, 206, 242, 0.2);
+}
+#goals{
+    height: 200px;
+    width: 686px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px 5px rgba(4, 206, 242, 0.2);
+}
+p{
+    text-align: center;
+}
+b{
+    text-align: center;
+}
+.image1{
+    width: 87px;
+height: 307px;
+display: flex;
+font-size: 150px;
+margin-left: 2opx;
+}
+.head{
+    display: flex;
+    margin-left: 20px;
+    padding: 20px;
+}
+.icon{
+    margin-left: 118px;
+    font-size: 30px;
+}
+.head2{
+    display: flex;
+}
+.head3{
+    display: flex;
+}
+.image3{
+        width: 0px;
+    height: 307px;
+    display: flex;
+    font-size: 150px;
+    margin-left: 2opx;
+    
+}

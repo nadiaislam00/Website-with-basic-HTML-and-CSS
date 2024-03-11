@@ -1,0 +1,109 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b9e8f0;
+    margin: 0;
+    padding: 0;
+    
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h2{
+    text-align: center;
+    color: #13393b;
+    text-shadow: 1px 1px rgb(244, 238, 238);
+    margin-top: 22px;
+}
+
+.form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin-left: 458px;
+    margin-top: 25px;
+    box-shadow: 5px 5px 5px 5px rgba(4, 206, 242, 0.2);
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: #1c575a;
+    color: #fff;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #16a2ac;
+}
+.footer{
+    margin-top: 50px;
+    margin-left: -347px;
+    text-align: center;
+    padding-top: 3px;
+    background-color: #14383f;
+    width: 1595px;
+}
+footer .icon{
+    color: white;
+    margin-top: 18px;
+    font-size: 45px;
+    position: relative;
+    margin-left: 351px;
+}
+.icon i{
+    position: relative;
+    padding: 15px;
+}
+.text{
+    color: white;
+    display: flex;
+    margin-left: 742px;
+    margin-top: 3px;
+}
+.text p{
+    margin-left: 50px;
+    padding: 3px;
+}
+.copy{
+    color: white;
+    margin-top: 18px;
+    margin-left: 344px;
+}
+.icon a{
+    color: white;
+}
+.fa-facebook:hover{
+    color: rgb(10, 125, 219);
+
+}
+.fa-instagram:hover{
+    color: rgb(220, 26, 5);
+
+}
+.fa-whatsapp:hover{
+    color: rgb(8, 223, 47);
+
+}
+.fa-twitter:hover{
+    color: rgb(92, 206, 248);
+
+}
+.fa-linkedin:hover{
+    color: rgb(105, 148, 240);
+
+}
